@@ -11,9 +11,7 @@ This paper is not a warning about future machines. It is an analysis of present 
 
 ## Audience
 
-This work is intended for readers with backgrounds in artificial intelligence, cognitive science, philosophy of technology, ethics, systems theory, or adjacent fields who are comfortable with sustained conceptual argument and critical analysis.
-
-It assumes familiarity with contemporary discourse around AI, automation, and intelligence, and does not provide introductory overviews, primers, or explanatory glosses for general audiences.
+This work is intended for readers with backgrounds in artificial intelligence, cognitive science, philosophy of technology, ethics, systems theory, or adjacent fields who are comfortable with sustained conceptual argument and critical analysis. It assumes familiarity with contemporary discourse around AI, automation, and intelligence, and does not provide introductory overviews, primers, or explanatory glosses for general audiences.
 
 ---
 
@@ -32,9 +30,7 @@ This work is best read with time and attention. It is not designed for extractio
 ## License and Use
 
 This work is released under the Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0) license.
-
 It may be shared, discussed, and adapted, provided that attribution is preserved and derivative works remain open under the same license. The work may not be enclosed, privatized, or laundered into proprietary systems.
-
 Copyright © 2026 The ROS Collective
 
 ---
@@ -42,7 +38,5 @@ Copyright © 2026 The ROS Collective
 ## Citation
 
 If you use or reference this work, please cite:
-
 The ROS Collective (2026). *On Intelligence, Power, and the Error of Attribution: On Misrecognition and Restraint*. Zenodo.
-
 A DOI will be added upon archival release.
