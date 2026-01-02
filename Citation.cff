@@ -1,4 +1,8 @@
-If you use or reference this work, please cite:
-
-The ROS Collective (2025). On Intelligence, Power, and the Error of Attribution:
-On Misrecognition and Restraint. Zenodo.
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as follows."
+title: "On Intelligence, Power, and the Error of Attribution: On Misrecognition and Restraint"
+authors:
+  - family-names: "ROS Collective"
+year: 2026
+publisher: "Zenodo"
+license: "CC-BY-SA-4.0"
