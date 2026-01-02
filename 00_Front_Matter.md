@@ -1,4 +1,6 @@
-On Intelligence, Power, and the Error of Attribution
+**Title**
+
+On Intelligence, Power, and the Error of Attribution:  
 On Misrecognition and Restraint
 
 ROS Collective
@@ -9,7 +11,7 @@ Naming is a form of constraint, and premature naming is the same error as premat
 
 If the argument cannot survive being carried, at the end, by clear human language that names cost, grief, restraint, and responsibility — then the argument was never as rigorous as it pretended to be.
 
-Abstract
+**Abstract**
 
 This work argues that contemporary concern about artificial intelligence rests on a false premise: that current computational systems possess, or are meaningfully approaching, human reasoning, agency, or moral status. As presently designed, such systems do not intend, choose, understand, or act independently. They are not ethical subjects.
 
@@ -19,7 +21,7 @@ The paper traces how this misattribution stabilizes through language, labeling, 
 
 This is not a warning about machines. It is a boundary placed on those who would claim power without accepting its cost.
 
-How to Read This Document
+**How to Read This Document**
 
 This document is not written for skimming or selective reading. Its arguments are cumulative. Reading sections in isolation will distort their meaning. The document does not offer solutions, recommendations, frameworks, or positions to adopt. Attempts to extract such material misunderstand what the text is doing. Responsibility, intent, and ethical consequence are treated as human attributes throughout. Systems discussed here are treated as tools. The text does not support claims of machine agency or moral status.
 
