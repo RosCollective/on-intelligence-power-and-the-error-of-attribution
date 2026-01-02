@@ -21,45 +21,41 @@ This is not a warning about machines. It is a boundary placed on those who would
 
 How to Read This Document
 
-This document is not written for skimming or selective reading. Its arguments are cumulative. Reading sections in isolation will distort their meaning.
+This document is not written for skimming or selective reading. Its arguments are cumulative. Reading sections in isolation will distort their meaning. The document does not offer solutions, recommendations, frameworks, or positions to adopt. Attempts to extract such material misunderstand what the text is doing. Responsibility, intent, and ethical consequence are treated as human attributes throughout. Systems discussed here are treated as tools. The text does not support claims of machine agency or moral status.
 
-The document does not offer solutions, recommendations, frameworks, or positions to adopt. Attempts to extract such material misunderstand what the text is doing.
+Several sections depend on material contained in the appendices. Those appendices are not optional. Skipping them changes the meaning of what follows. This is the structure of the document.
 
-Responsibility, intent, and ethical consequence are treated as human attributes throughout. Systems discussed here are treated as tools. The text does not support claims of machine agency or moral status.
+## Table of Contents
 
-Several sections depend on material contained in the appendices. Those appendices are not optional. Skipping them changes the meaning of what follows.
+1. Mirror, Reflection, Refusal  
+2. Language, Prestige, and the Self-Sealing Claim  
+3. Why Responsibility Cannot Be Delegated  
+4. Why Hybrid Cognition Will Not Occur  
+5. Liminality  
+   - 5.0 Entry Conditions  
+   - 5.1 From Mahler to Liminality  
+   - 5.2 Liminality as Field  
+   - 5.3 Liminality as Dynamics  
+   - 5.4 Use, Speed, and Human Constraint  
+   - 5.5 Artifacts and the Error of Misnaming  
+6. Why No Replacement Term Is Offered  
+7. What the Real Work Is — and What It Is Not  
+8. What This Work Refuses  
+9. Intelligence, Projection, and the Refusal of Restraint  
+10. On What Remains  
 
-This is the structure of the document.
+### Appendices
+- Appendix A — Healers, Spiritual and Embodied Witnesses  
+- Appendix B — Activists and Political Witnesses  
+- Appendix C — Thinkers and Philosophers  
+- Appendix D — Writers and Poets  
+- Appendix E — Scientists and Mathematicians  
+- Appendix F — Musicians and Composers  
 
-Table of Contents
+### Bibliography
+- Bibliography
 
-1. Mirror, Reflection, Refusal
-2. Language, Prestige, and the Self-Sealing Claim
-3. Why Responsibility Cannot Be Delegated
-4. Why Hybrid Cognition Will Not Occur
 
-5. Liminality
-   5.0 Entry Conditions
-   5.1 From Mahler to Liminality
-   5.2 Liminality as Field
-   5.3 Liminality as Dynamics
-   5.4 Use, Speed, and Human Constraint
-   5.5 Artifacts and the Error of Misnaming
+License: Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
+Copyright © 2026 The ROS Collective
 
-6. Why No Replacement Term Is Offered
-7. What the Real Work Is — and What It Is Not
-8. What This Work Refuses
-9. Intelligence, Projection, and the Refusal of Restraint
-10. On What Remains
-
-Appendix A — Healers, Spiritual and Embodied Witnesses
-Appendix B — Activists and Political Witnesses
-Appendix C — Thinkers and Philosophers
-Appendix D — Writers and Poets
-Appendix E — Scientists and Mathematicians
-Appendix F — Musicians and Composers
-
-Bibliography
-
-License: Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)
-Copyright: © 2026 The ROS Collective
