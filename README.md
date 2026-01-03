@@ -29,15 +29,21 @@ This work is best read with time and attention. It is not designed for extractio
 
 ## License and Use
 
-This work is released under the Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0) license. It may be shared, discussed, and adapted, provided that attribution is preserved and derivative works remain open under the same license. The work may not be enclosed, privatized, or laundered into proprietary systems.
+This work is released under the Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0) license.
 
-Copyright © 2026 The ROS Collective
+It may be shared, discussed, and adapted, provided that attribution is preserved and derivative works remain open under the same license. The work may not be enclosed, privatized, or laundered into proprietary systems.
+
+---
+
+**Version:** v1.0.0 — Initial Canonical Release (2026)  
+**License:** Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
+**Copyright:** © 2026 The ROS Collective
 
 ---
 
 ## Citation
 
 If you use or reference this work, please cite:
-The ROS Collective (2026). *On Intelligence, Power, and the Error of Attribution: On Misrecognition and Restraint*. Zenodo.
 
-A DOI will be added upon archival release.
+The ROS Collective (2026). *On Intelligence, Power, and the Error of Attribution: On Misrecognition and Restraint*. Zenodo.  
+DOI: https://doi.org/10.5281/zenodo.18140571
