@@ -36,8 +36,12 @@ It may be shared, discussed, and adapted, provided that attribution is preserved
 
 If you use or reference this work, please cite:
 
-The ROS Collective (2026). *On Intelligence, Power, and the Error of Attribution: On Misrecognition and Restraint*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18140571
+> The ROS Collective (2026). "On Intelligence, Power, and the Error of Attribution: On Misrecognition and Restraint" (v.1.0.0). Zenodo.  
+> DOI: https://doi.org/10.5281/zenodo.18140671
+
+For citations that should always resolve to the latest version, you may use the concept DOI:
+
+> https://doi.org/10.5281/zenodo.18140570
 
 ---
 
